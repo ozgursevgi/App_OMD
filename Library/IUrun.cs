@@ -22,6 +22,7 @@ public interface IUrunFiyat
 
 public interface IUrunKod
 {
+    //Bu Bölümü Değiştirdim 
      int UrunBarkod { get; set; }
      int UrunKoliAdet { get; set; }
      //enum UrunReyon{ }
